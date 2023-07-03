@@ -1,0 +1,36 @@
+.progress-bar{
+	height: 8px;
+	width: 350px;
+	background-color: white;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+#bottone-recensione{
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+#container-recensione{
+	height: fit-content;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: cornsilk;
+}
+#contenuto-recensione{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#card-container{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#stars{
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.stars-container {
+  color: grey; /* Colore delle stelle non colorate */
+}
+
+.fa-star.checked {
+  color: orange; /* Colore delle stelle intere */
+}
+
+
